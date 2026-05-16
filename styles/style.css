@@ -214,6 +214,10 @@
     --main-gap: 80px;
   }
 
+   .content {
+    padding: 60px var(--content-padding);
+  }
+
   .page-title {
     font-size: var(--title-size-desktop);
   }
